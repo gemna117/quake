@@ -1,0 +1,7 @@
+---- qbsp / ericw-tools v0.18.1 ----
+Input file: multiplayer.map
+Output file: level.bsp
+
+---- LoadMapFile ----
+************ ERROR ************
+Failed to open multiplayer.map: No such file or directory

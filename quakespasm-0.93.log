@@ -1,0 +1,7 @@
+---- qbsp / TyrUtils v0.15 ----
+Input file: multiplayer_level.map
+Output file: C:\Users\HP\Downloads\quake-leveldesign-starterkit-1.11.0\quake-leveldesign-starterkit-1.11.0\quakespasm-0.93.bsp
+
+---- LoadMapFile ----
+************ ERROR ************
+Failed to open multiplayer_level.map: No such file or directory
